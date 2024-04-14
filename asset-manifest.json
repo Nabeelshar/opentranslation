@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/opentranslation/static/css/main.fba5d669.css",
+    "main.js": "/opentranslation/static/js/main.494f3a17.js",
+    "index.html": "/opentranslation/index.html",
+    "main.fba5d669.css.map": "/opentranslation/static/css/main.fba5d669.css.map",
+    "main.494f3a17.js.map": "/opentranslation/static/js/main.494f3a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba5d669.css",
+    "static/js/main.494f3a17.js"
+  ]
+}
