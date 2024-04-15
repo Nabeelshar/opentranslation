@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/opentranslation/static/css/main.fba5d669.css",
-    "main.js": "/opentranslation/static/js/main.9ceaaddb.js",
+    "main.js": "/opentranslation/static/js/main.fc67af4c.js",
     "index.html": "/opentranslation/index.html",
     "main.fba5d669.css.map": "/opentranslation/static/css/main.fba5d669.css.map",
-    "main.9ceaaddb.js.map": "/opentranslation/static/js/main.9ceaaddb.js.map"
+    "main.fc67af4c.js.map": "/opentranslation/static/js/main.fc67af4c.js.map"
   },
   "entrypoints": [
     "static/css/main.fba5d669.css",
-    "static/js/main.9ceaaddb.js"
+    "static/js/main.fc67af4c.js"
   ]
 }
